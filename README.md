@@ -13,7 +13,7 @@ gitTest
       skdfjskfksjf ksdfl
       sdkf ksfjsk
 [链接](http://www.baidu.com/)
-![Build Status](https://github.com/luohanwen/gitTest/blob/master/demo.png)
+![Build Status](./demo.png)
 
 [![image]](http://www.github.com/)  
 [image]: http://github.com/github.png "github"  
