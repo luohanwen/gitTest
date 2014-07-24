@@ -22,3 +22,5 @@ Once you cloned the repo, you'll need to install [grunt](http://gruntjs.com/) an
 
     npm install -g grunt-cli
     npm install
+
+![github](http://github.com/unicorn.png "github")
