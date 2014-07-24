@@ -13,7 +13,7 @@ gitTest
       skdfjskfksjf ksdfl
       sdkf ksfjsk
 [链接](http://www.baidu.com/)
-![Build Status](https://travis-ci.org/eternicode/bootstrap-datepicker.png?branch=master)
+![Build Status](http://github.com/unicorn.png)
 
 [![image]](http://www.github.com/)  
 [image]: http://github.com/github.png "github"  
