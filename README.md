@@ -13,7 +13,7 @@ gitTest
       skdfjskfksjf ksdfl
       sdkf ksfjsk
 [链接](http://www.baidu.com/)
-![Build Status](http://github.com/unicorn.png)
+![Build Status](https://github.com/luohanwen/gitTest/blob/master/demo.png)
 
 [![image]](http://www.github.com/)  
 [image]: http://github.com/github.png "github"  
