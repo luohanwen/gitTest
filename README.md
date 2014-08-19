@@ -12,7 +12,7 @@ gitTest
       nfs fj fsjfksj fksj fkj sf
       skdfjskfksjf ksdfl
       sdkf ksfjsk
-[链接](http://www.baidu.com/)11111111111111111
+[链接](http://www.baidu.com/)
 ![Build Status](./demo.png)
 
 [![image]](http://www.github.com/)  
